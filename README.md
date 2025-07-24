@@ -73,7 +73,7 @@ Welcome to my **C++ with DSA** repository! This collection contains my C++ progr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/CPP_with_DSA.git
+git clone https://github.com/zahir2003/C-and-CPP-Programing.git
 ````
 
 2. Navigate to the desired program file.
